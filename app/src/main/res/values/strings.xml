@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Quick Launcher App</string>
+    <string name="google">Google</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="data">Data</string>
+</resources>
